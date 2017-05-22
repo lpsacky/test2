@@ -1,3 +1,6 @@
+V1
+
+
 Welcome to this free online class on
 machine learning. Machine learning is one of the most exciting recent technologies.
 And in this class, you learn about the state of the art and also gain practice
